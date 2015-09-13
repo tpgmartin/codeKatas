@@ -6,4 +6,5 @@ All the katas done here can be found at the [coding dojo](http://codingdojo.org/
 
 ## Completed Katas
 
+* [KataFizzBuzz](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz)
 * [KataRomanNumerals](http://codingdojo.org/cgi-bin/index.pl?KataRomanNumerals)
